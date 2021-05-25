@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\obj\Debug\WindowsFormsAppLog.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\obj\Debug\WindowsFormsAppLog.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\obj\Debug\WindowsFormsAppLog.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\obj\Debug\WindowsFormsAppLog.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\bin\Debug\WindowsFormsAppLog.exe.config
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\bin\Debug\WindowsFormsAppLog.exe
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\bin\Debug\WindowsFormsAppLog.pdb
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\obj\Debug\WindowsFormsAppLog.exe
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\obj\Debug\WindowsFormsAppLog.pdb
+C:\Users\admin\source\repos\WindowsFormsAppLog\WindowsFormsAppLog\obj\Debug\WindowsFormsAppLog.Form2.resources
