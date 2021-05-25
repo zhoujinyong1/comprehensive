@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\List\List\bin\Debug\List.exe.config
+C:\Users\admin\source\repos\List\List\bin\Debug\List.exe
+C:\Users\admin\source\repos\List\List\bin\Debug\List.pdb
+C:\Users\admin\source\repos\List\List\obj\Debug\List.Form1.resources
+C:\Users\admin\source\repos\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\admin\source\repos\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\List\List\obj\Debug\List.exe
+C:\Users\admin\source\repos\List\List\obj\Debug\List.pdb

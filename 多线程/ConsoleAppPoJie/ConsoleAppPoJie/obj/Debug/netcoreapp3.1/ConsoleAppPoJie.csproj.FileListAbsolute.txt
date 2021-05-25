@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\bin\Debug\netcoreapp3.1\ConsoleAppPoJie.exe
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\bin\Debug\netcoreapp3.1\ConsoleAppPoJie.deps.json
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\bin\Debug\netcoreapp3.1\ConsoleAppPoJie.runtimeconfig.json
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\bin\Debug\netcoreapp3.1\ConsoleAppPoJie.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\bin\Debug\netcoreapp3.1\ConsoleAppPoJie.dll
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\bin\Debug\netcoreapp3.1\ConsoleAppPoJie.pdb
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\obj\Debug\netcoreapp3.1\ConsoleAppPoJie.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\obj\Debug\netcoreapp3.1\ConsoleAppPoJie.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\obj\Debug\netcoreapp3.1\ConsoleAppPoJie.AssemblyInfo.cs
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\obj\Debug\netcoreapp3.1\ConsoleAppPoJie.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\obj\Debug\netcoreapp3.1\ConsoleAppPoJie.dll
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\obj\Debug\netcoreapp3.1\ConsoleAppPoJie.pdb
+C:\Users\admin\source\repos\ConsoleAppPoJie\ConsoleAppPoJie\obj\Debug\netcoreapp3.1\ConsoleAppPoJie.genruntimeconfig.cache
