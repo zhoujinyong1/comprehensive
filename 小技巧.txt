@@ -1,1 +1,6 @@
-c#��ֻ�н�Int����ת��ΪDouble����������ܵó�double���͵�ֵ��
+c#中只有将Int类型转换为Double类型相除才能得出double类型的值。
+
+c#中在字符串中输出“   
+1、string a = @"12""34";    
+2、string b = "12\"34";
+都输出为：12”34
