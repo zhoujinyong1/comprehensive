@@ -5,6 +5,8 @@ FFMPEGvideo：通过FFMPEG实现视频的分割与合并（自行下载FFMPEG安
 
 FTP：通过FTP进行上传和下载;配置文件(config.ini)的读写
 
+Library-management-system-main:图书管理系统
+
 List:list的一些用法
 
 分割字符串：分割字符串并去除末尾为空的字符串
