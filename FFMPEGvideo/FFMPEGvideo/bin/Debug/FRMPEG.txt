@@ -1,0 +1,4 @@
+合并成功：
+ffmpeg -i F:\\1\\360p.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb F:\\1.ts
+ffmpeg -i F:\\1\\360p2.mp4 -vcodec copy -acodec copy -vbsf h264_mp4toannexb F:\\2.ts
+ffmpeg -i concat:"F:\\1.ts|F:\\2.ts" -acodec copy -vcodec copy -absf aac_adtstoasc F:\\output.mp4
