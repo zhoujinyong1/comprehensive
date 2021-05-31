@@ -1,0 +1,17 @@
+2021/02/03 10:56:07 [Server-1] Starting 
+2021/02/03 10:56:07 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: E:\视觉\zjy\zjy\bin\Debug
+        DefaultImagePath: E:\视觉\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Web
+ 
+2021/02/03 10:56:07 [Server-1] Started 
+2021/02/03 10:56:07 [AutoSet-7] Start 
+2021/02/03 10:58:12 [Server-1] Stoping 
+2021/02/03 10:58:12 [TcpAccept-EX-9] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2021/02/03 10:58:13 [Server-1] Stoped 
+2021/02/03 10:58:13 [AutoSet-7] Stop 

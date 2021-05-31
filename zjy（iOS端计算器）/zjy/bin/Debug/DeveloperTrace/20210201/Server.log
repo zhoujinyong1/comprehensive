@@ -1,0 +1,105 @@
+2021/02/01 14:43:05 [Server-1] Starting 
+2021/02/01 14:43:05 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: E:\视觉\zjy\zjy\bin\Debug
+        DefaultImagePath: E:\视觉\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Web
+ 
+2021/02/01 14:43:05 [Server-1] Started 
+2021/02/01 14:43:05 [AutoSet-7] Start 
+2021/02/01 14:43:29 [Server-1] Stoping 
+2021/02/01 14:43:29 [TcpAccept-EX-9] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2021/02/01 14:43:55 [Server-1] Starting 
+2021/02/01 14:43:55 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: E:\视觉\zjy\zjy\bin\Debug
+        DefaultImagePath: E:\视觉\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Web
+ 
+2021/02/01 14:43:55 [Server-1] Started 
+2021/02/01 14:43:55 [AutoSet-7] Start 
+2021/02/01 14:45:39 [WebSocketAccept-13] 127.0.0.1:49714 
+2021/02/01 14:45:39 [c36f3b09-91f4-492b-9f9b-07a73460370d-127.0.0.1-8] {"deviceOS":"Web","deviceOSVersion":"unkonw","deviceModel":"unkonw","screenSize":{"width":1922,"height":900},"density":1,"version":"1.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":false,"extraInfo":{"package_name":"unknow","display_name":"Smobiler","plugin_msg":null,"low_memory":true,"authPlugins":["sm_wxApi","sm_wxEnterpriseApi","neil_videoplayer","sm_vlcplayer","neil_circle","sm_speech"]}} 
+2021/02/01 14:46:31 [WebSocketAccept-9] 127.0.0.1:49730 
+2021/02/01 14:46:32 [c36f3b09-91f4-492b-9f9b-07a73460370d-127.0.0.1-14] {"deviceOS":"Web","deviceOSVersion":"unkonw","deviceModel":"unkonw","screenSize":{"width":1922,"height":900},"density":1,"version":"1.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":false,"extraInfo":{"package_name":"unknow","display_name":"Smobiler","plugin_msg":null,"low_memory":true,"authPlugins":["sm_wxApi","sm_wxEnterpriseApi","neil_videoplayer","sm_vlcplayer","neil_circle","sm_speech"]}} 
+2021/02/01 14:47:07 [Server-1] Stoping 
+2021/02/01 14:47:07 [TcpAccept-EX-9] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2021/02/01 14:47:07 [c36f3b09-91f4-492b-9f9b-07a73460370d-1] Stop-StopServer-True-- 
+2021/02/01 14:47:09 [Server-1] Stoped 
+2021/02/01 14:47:09 [AutoSet-7] Stop 
+2021/02/01 14:47:13 [Server-1] Starting 
+2021/02/01 14:47:13 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: E:\视觉\zjy\zjy\bin\Debug
+        DefaultImagePath: E:\视觉\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Web
+ 
+2021/02/01 14:47:13 [Server-1] Started 
+2021/02/01 14:47:13 [AutoSet-7] Start 
+2021/02/01 14:47:19 [WebSocketAccept-10] 127.0.0.1:49749 
+2021/02/01 14:47:19 [c36f3b09-91f4-492b-9f9b-07a73460370d-127.0.0.1-9] {"deviceOS":"Web","deviceOSVersion":"unkonw","deviceModel":"unkonw","screenSize":{"width":1922,"height":900},"density":1,"version":"1.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":false,"extraInfo":{"package_name":"unknow","display_name":"Smobiler","plugin_msg":null,"low_memory":true,"authPlugins":["sm_wxApi","sm_wxEnterpriseApi","neil_videoplayer","sm_vlcplayer","neil_circle","sm_speech"]}} 
+2021/02/01 14:47:48 [WebSocketAccept-14] 127.0.0.1:49862 
+2021/02/01 14:47:48 [81dfc4c2-4991-4ec2-9aaa-f7daf9feb8aa-127.0.0.1-11] {"deviceOS":"Web","deviceOSVersion":"unkonw","deviceModel":"unkonw","screenSize":{"width":1024,"height":723},"density":1,"version":"1.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":false,"extraInfo":{"package_name":"unknow","display_name":"Smobiler","plugin_msg":null,"low_memory":true,"authPlugins":["sm_wxApi","sm_wxEnterpriseApi","neil_videoplayer","sm_vlcplayer","neil_circle","sm_speech"]}} 
+2021/02/01 14:49:02 [Server-1] Stoping 
+2021/02/01 14:49:02 [TcpAccept-EX-8] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2021/02/01 14:49:02 [c36f3b09-91f4-492b-9f9b-07a73460370d-1] Stop-StopServer-True-- 
+2021/02/01 14:49:02 [81dfc4c2-4991-4ec2-9aaa-f7daf9feb8aa-1] Stop-StopServer-True-- 
+2021/02/01 14:49:03 [Server-1] Stoped 
+2021/02/01 14:49:03 [AutoSet-7] Stop 
+2021/02/01 14:49:10 [Server-1] Starting 
+2021/02/01 14:49:10 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: E:\视觉\zjy\zjy\bin\Debug
+        DefaultImagePath: E:\视觉\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Web
+ 
+2021/02/01 14:49:10 [Server-1] Started 
+2021/02/01 14:49:10 [AutoSet-7] Start 
+2021/02/01 14:52:27 [Server-1] Starting 
+2021/02/01 14:52:27 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: E:\视觉\zjy\zjy\bin\Debug
+        DefaultImagePath: E:\视觉\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Web
+ 
+2021/02/01 14:52:27 [Server-1] Started 
+2021/02/01 14:52:27 [AutoSet-7] Start 
+2021/02/01 14:52:33 [Server-1] Stoping 
+2021/02/01 14:52:33 [TcpAccept-EX-8] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2021/02/01 14:52:34 [Server-1] Stoped 
+2021/02/01 14:52:34 [AutoSet-7] Stop 
+2021/02/01 14:53:31 [Server-1] Starting 
+2021/02/01 14:53:32 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: E:\视觉\zjy\zjy\bin\Debug
+        DefaultImagePath: E:\视觉\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: E:\视觉\zjy\zjy\bin\Debug\Resources\Web
+ 
+2021/02/01 14:53:32 [Server-1] Started 
+2021/02/01 14:53:45 [Server-1] Stoping 
+2021/02/01 14:53:45 [TcpAccept-EX-8] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2021/02/01 14:53:46 [Server-1] Stoped 
+2021/02/01 14:53:46 [AutoSet-7] Stop 

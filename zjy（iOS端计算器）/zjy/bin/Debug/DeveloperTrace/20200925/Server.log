@@ -1,0 +1,234 @@
+2020/09/25 15:29:55 [Server-9] Starting 
+2020/09/25 15:29:55 [Initial-9] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:29:55 [Server-9] Started 
+2020/09/25 15:29:55 [AutoSet-14] Start 
+2020/09/25 15:29:57 [Server-9] Stoping 
+2020/09/25 15:29:57 [TcpAccept-EX-16] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2020/09/25 15:29:58 [Server-9] Stoped 
+2020/09/25 15:29:58 [AutoSet-14] Stop 
+2020/09/25 15:33:40 [Server-10] Starting 
+2020/09/25 15:33:40 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:33:40 [Server-10] Started 
+2020/09/25 15:33:45 [TcpAccept-11] 192.168.1.49:52291 
+2020/09/25 15:33:45 [A37AB357_618E_42E5_BFD1_A07F388E81F5-192.168.1.49-3] {"deviceOS":"IOS","deviceOSVersion":"13.7","deviceModel":"iPhone9,1","screenSize":{"width":750,"height":1334},"density":2.0,"version":"6.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2020/09/25 15:34:12 [Server-10] Starting 
+2020/09/25 15:34:12 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:34:12 [Server-10] Started 
+2020/09/25 15:34:12 [AutoSet-15] Start 
+2020/09/25 15:34:20 [TcpAccept-11] 192.168.1.49:52293 
+2020/09/25 15:34:20 [A37AB357_618E_42E5_BFD1_A07F388E81F5-192.168.1.49-16] {"deviceOS":"IOS","deviceOSVersion":"13.7","deviceModel":"iPhone9,1","screenSize":{"width":750,"height":1334},"density":2.0,"version":"6.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2020/09/25 15:34:35 [TcpAccept-11] 192.168.1.49:52295 
+2020/09/25 15:34:35 [A37AB357_618E_42E5_BFD1_A07F388E81F5-192.168.1.49-18] {"deviceOS":"IOS","deviceOSVersion":"13.7","deviceModel":"iPhone9,1","screenSize":{"width":750,"height":1334},"density":2.0,"version":"6.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2020/09/25 15:34:46 [Server-10] Stoping 
+2020/09/25 15:34:46 [TcpAccept-EX-18] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2020/09/25 15:34:46 [A37AB357_618E_42E5_BFD1_A07F388E81F5-10] Stop-StopServer-True-- 
+2020/09/25 15:34:47 [Server-10] Stoped 
+2020/09/25 15:34:47 [AutoSet-15] Stop 
+2020/09/25 15:34:54 [Server-10] Starting 
+2020/09/25 15:34:54 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:34:54 [Server-10] Started 
+2020/09/25 15:34:54 [AutoSet-15] Start 
+2020/09/25 15:34:55 [TcpAccept-11] 192.168.1.49:52296 
+2020/09/25 15:34:55 [A37AB357_618E_42E5_BFD1_A07F388E81F5-192.168.1.49-17] {"deviceOS":"IOS","deviceOSVersion":"13.7","deviceModel":"iPhone9,1","screenSize":{"width":750,"height":1334},"density":2.0,"version":"6.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2020/09/25 15:35:14 [Server-10] Stoping 
+2020/09/25 15:35:14 [TcpAccept-EX-19] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2020/09/25 15:35:14 [A37AB357_618E_42E5_BFD1_A07F388E81F5-10] Stop-StopServer-True-- 
+2020/09/25 15:35:15 [Server-10] Stoped 
+2020/09/25 15:35:15 [AutoSet-15] Stop 
+2020/09/25 15:35:21 [Server-10] Starting 
+2020/09/25 15:35:21 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:35:21 [Server-10] Started 
+2020/09/25 15:35:21 [AutoSet-15] Start 
+2020/09/25 15:35:25 [Server-10] Stoping 
+2020/09/25 15:35:25 [TcpAccept-EX-6] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2020/09/25 15:35:26 [Server-10] Stoped 
+2020/09/25 15:35:26 [AutoSet-15] Stop 
+2020/09/25 15:39:02 [Server-10] Starting 
+2020/09/25 15:39:02 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:39:02 [Server-10] Started 
+2020/09/25 15:39:02 [AutoSet-15] Start 
+2020/09/25 15:39:16 [TcpAccept-11] 192.168.1.49:52299 
+2020/09/25 15:40:59 [Server-9] Starting 
+2020/09/25 15:40:59 [Initial-9] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:41:00 [Server-9] Started 
+2020/09/25 15:41:00 [AutoSet-14] Start 
+2020/09/25 15:41:01 [TcpAccept-10] 192.168.1.49:52301 
+2020/09/25 15:41:02 [A37AB357_618E_42E5_BFD1_A07F388E81F5-192.168.1.49-3] {"deviceOS":"IOS","deviceOSVersion":"13.7","deviceModel":"iPhone9,1","screenSize":{"width":750,"height":1334},"density":2.0,"version":"6.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2020/09/25 15:43:26 [Server-9] Starting 
+2020/09/25 15:43:26 [Initial-9] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:43:26 [Server-9] Started 
+2020/09/25 15:43:26 [AutoSet-14] Start 
+2020/09/25 15:43:31 [TcpAccept-10] 192.168.1.49:52303 
+2020/09/25 15:44:26 [Server-8] Starting 
+2020/09/25 15:44:26 [Initial-8] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:44:26 [AutoSet-13] Start 
+2020/09/25 15:44:26 [Server-8] Started 
+2020/09/25 15:44:29 [TcpAccept-9] 192.168.1.49:52313 
+2020/09/25 15:47:16 [Server-10] Starting 
+2020/09/25 15:47:16 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:47:16 [AutoSet-15] Start 
+2020/09/25 15:47:16 [Server-10] Started 
+2020/09/25 15:47:19 [TcpAccept-11] 192.168.1.49:52319 
+2020/09/25 15:49:28 [Server-9] Starting 
+2020/09/25 15:49:28 [Initial-9] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:49:28 [Server-9] Started 
+2020/09/25 15:49:28 [AutoSet-14] Start 
+2020/09/25 15:49:32 [TcpAccept-10] 192.168.1.49:52322 
+2020/09/25 15:49:32 [A37AB357_618E_42E5_BFD1_A07F388E81F5-192.168.1.49-17] {"deviceOS":"IOS","deviceOSVersion":"13.7","deviceModel":"iPhone9,1","screenSize":{"width":750,"height":1334},"density":2.0,"version":"6.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2020/09/25 15:52:15 [Server-9] Starting 
+2020/09/25 15:52:15 [Initial-9] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 15:52:15 [AutoSet-14] Start 
+2020/09/25 15:52:15 [Server-9] Started 
+2020/09/25 15:52:21 [TcpAccept-10] 192.168.1.49:52326 
+2020/09/25 16:05:04 [TcpAccept-17] 192.168.1.49:52328 
+2020/09/25 16:06:40 [Server-9] Starting 
+2020/09/25 16:06:40 [Initial-9] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 16:06:40 [Server-9] Started 
+2020/09/25 16:06:45 [TcpAccept-10] 192.168.1.49:52332 
+2020/09/25 16:06:46 [A37AB357_618E_42E5_BFD1_A07F388E81F5-192.168.1.49-10] {"deviceOS":"IOS","deviceOSVersion":"13.7","deviceModel":"iPhone9,1","screenSize":{"width":750,"height":1334},"density":2.0,"version":"6.0.0","coreVersion":"6.0.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2020/09/25 16:07:23 [Server-10] Starting 
+2020/09/25 16:07:23 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 16:07:23 [Server-10] Started 
+2020/09/25 16:07:25 [TcpAccept-11] 192.168.1.49:52334 
+2020/09/25 16:11:05 [Server-9] Starting 
+2020/09/25 16:11:05 [Initial-9] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 16:11:05 [Server-9] Started 
+2020/09/25 16:11:05 [AutoSet-14] Start 
+2020/09/25 16:11:09 [TcpAccept-10] 192.168.1.49:52337 
+2020/09/25 16:11:37 [Server-10] Starting 
+2020/09/25 16:11:37 [Initial-10] Version: 510.15878, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug
+        DefaultImagePath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\Administrator\Desktop\8.18\8.19\zjy\zjy\bin\Debug\Resources\Web
+ 
+2020/09/25 16:11:37 [Server-10] Started 
+2020/09/25 16:11:37 [AutoSet-15] Start 
+2020/09/25 16:11:39 [TcpAccept-11] 192.168.1.49:52343 
