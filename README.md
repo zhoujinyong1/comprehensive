@@ -1,6 +1,8 @@
 # comprehensive
 综合小程序(每个程序都可独立运行)
 
+FFMPEGvideo：通过FFMPEG实现视频的分割与合并（自行下载FFMPEG安装）
+
 FTP：通过FTP进行上传和下载;配置文件(config.ini)的读写
 
 List:list的一些用法
