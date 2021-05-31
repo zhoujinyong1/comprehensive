@@ -1,0 +1,36 @@
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\bin\Debug\01.My.Demo.exe.config
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\obj\Debug\01.My.Demo.csprojResolveAssemblyReference.cache
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\obj\Debug\_01.My.Demo.Form1.resources
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\obj\Debug\_01.My.Demo.Properties.Resources.resources
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\obj\Debug\01.My.Demo.csproj.GenerateResource.Cache
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\bin\Debug\01.My.Demo.exe
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\bin\Debug\01.My.Demo.pdb
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\obj\Debug\01.My.Demo.exe
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统\01.My.Demo\obj\Debug\01.My.Demo.pdb
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.exe.config
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.exe
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.pdb
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.exe
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.pdb
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.csprojResolveAssemblyReference.cache
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\obj\Debug\_01.My.Demo.Form1.resources
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\obj\Debug\_01.My.Demo.Properties.Resources.resources
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.exe.config
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.exe
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\obj\Debug\_01.My.Demo.Form1.resources
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\obj\Debug\_01.My.Demo.Properties.Resources.resources
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.csproj.GenerateResource.cache
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.exe
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.pdb
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.exe.config
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.exe
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.pdb
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\obj\Debug\_01.My.Demo.Form1.resources
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\obj\Debug\_01.My.Demo.Properties.Resources.resources
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.csproj.GenerateResource.Cache
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.exe
+C:\Users\micro\Desktop\毕业设计\图书管理系统\图书管理系统3\图书管理系统2\01.My.Demo\bin\Debug\01.My.Demo.pdb
+C:\Users\admin\Documents\WeChat Files\wxid_drsreum1ba8r22\FileStorage\File\2021-03\图书管理系统2\01.My.Demo\obj\Debug\01.My.Demo.csprojAssemblyReference.cache
