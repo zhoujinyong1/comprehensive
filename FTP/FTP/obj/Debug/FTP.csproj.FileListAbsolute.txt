@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\FTP\FTP\bin\Debug\FTP.dll
+C:\Users\admin\source\repos\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\admin\source\repos\FTP\FTP\obj\Debug\FTP.NetTCPClient.resources
+C:\Users\admin\source\repos\FTP\FTP\obj\Debug\FTP.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FTP\FTP\obj\Debug\FTP.dll
+C:\Users\admin\source\repos\FTP\FTP\obj\Debug\FTP.pdb
+C:\Users\admin\source\repos\FTP\FTP\obj\Debug\FTP.NetTCPServer.resources
