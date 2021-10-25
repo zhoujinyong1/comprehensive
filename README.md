@@ -3,7 +3,7 @@
 
 FFMPEGvideo：通过FFMPEG实现视频的分割与合并（自行下载FFMPEG安装）
 
-FTP：通过FTP进行上传和下载;配置文件(config.ini)的读写
+FTP：TCP客户端和服务端的dll文件和源码
 
 Library-management-system-main:图书管理系统（连接Access数据库）
 
