@@ -4,3 +4,9 @@ c#中在字符串中输出“
 1、string a = @"12""34";    
 2、string b = "12\"34";
 都输出为：12”34
+
+datagridview第一列空白隐藏掉：
+dataGridView1.RowHeadersVisible = false;
+
+在 listBox属性contextMenuStrip选择contextMenuStrip1：
+contextMenuStrip1 里设置按钮可以鼠标右键点击显示在 listBox上
